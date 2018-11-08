@@ -1,7 +1,7 @@
 # Shardstuff-CDDA-Mod
 Adds several large vehicle parts, overrides some from base game, and buffs gates controls to match the durability of the gates themselves to reduce chances of them being destroyed when you find them.
 
-Can add to an existing world by modifying the save's mods.json and adding "Metabolism_Rates" to the list, with a comma behind every entry except the last.  Mutations can be added to an existing character with debug menu, mutate, then use search for reduction with the / key.
+Can add to an existing world by modifying the save's mods.json and adding "shardstuff" to the list, with a comma behind every entry except the last.
 
 # Contents:
 Gatebuff.json - contains buffs for gate control durability
