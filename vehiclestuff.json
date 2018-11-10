@@ -219,15 +219,14 @@
     ]
   },{
     "id": "engine_electric_massive",
-    "copy-from": "engine_motor",
+    "copy-from": "engine_electric_large",
     "type": "vehicle_part",
     "name": "massive electric motor",
     "item": "motor_massive",
+    "proportional": { "energy_consumption": 3.5, "power": 2.5 },
     "difficulty": 4,
     "durability": 600,
     "description" : "A massive and incredibly powerful electric motor.",
-    "power": 1000,
-    "epower": -140000,
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 3, 5 ] },
