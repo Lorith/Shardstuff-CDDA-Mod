@@ -3,6 +3,10 @@ Adds several large vehicle parts, overrides some from base game, and buffs gates
 
 Can add to an existing world by modifying the save's mods.json and adding "shardstuff" to the list, with a comma behind every entry except the last.
 
+
+# This mod is basically abandoned and only edited for bugfixes, and even then not always.  Anyone who wants to take it over is free to do so, and do anything with it.
+
+
 # Contents:
 Gatebuff.json - contains buffs for gate control durability
 
